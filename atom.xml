@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Magician]]></title>
+  <title><![CDATA[Mobile Magician]]></title>
   <link href="http://alariccole.github.io/atom.xml" rel="self"/>
   <link href="http://alariccole.github.io/"/>
-  <updated>2013-05-06T14:24:51-07:00</updated>
+  <updated>2013-05-06T14:37:01-07:00</updated>
   <id>http://alariccole.github.io/</id>
   <author>
     <name><![CDATA[Alaric Cole]]></name>
