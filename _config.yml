@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://alariccole.github.io
-title: Blog
-subtitle: 
-author: Alaric
+title: Mobile Imagist
+subtitle: AC
+author: Alaric Cole
 simple_search: http://google.com/search
-description:
+description: Lorem ipsum dolor sit amet
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -58,13 +58,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:alariccole
+github_user: alariccole
 github_repo_count: 0
 github_show_profile_link: false
 github_skip_forks: true
 
 # Twitter
-twitter_user:theprocessapp
+twitter_user: theprocessapp
 twitter_tweet_button: true
 
 # Google +1
